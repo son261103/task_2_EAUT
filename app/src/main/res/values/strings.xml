@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="app_title">Tính chỉ số BMI</string>
+    <string name="name">Họ và tên</string>
+    <string name="age">Tuổi</string>
+    <string name="height">Chiều cao (cm)</string>
+    <string name="weight">Cân nặng (kg)</string>
+    <string name="gender">Giới tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="calculate">Tính BMI</string>
+    <string name="result_title">Kết quả BMI</string>
+    <string name="back">Quay lại</string>
+    <string name="user_list_title">Danh sách người dùng</string>
+    <string name="add_new">Thêm mới</string>
+    <string name="view_list">Xem danh sách</string>
+
+</resources>
